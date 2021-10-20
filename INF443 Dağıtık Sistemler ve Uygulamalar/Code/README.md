@@ -8,3 +8,7 @@
 
 ### Compute pi emprically
 ![](compute_pi.JPG)
+
+Answer: [ComputePi.ipynb](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/ComputePi.ipynb) you need [multi_process_example.py](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/multi_process_example.py) python file.
+
+
