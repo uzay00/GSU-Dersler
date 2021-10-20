@@ -22,4 +22,5 @@ Example
 
 
 ### Homework - MultiProcessing
-Run a [speech recognition](https://pypi.org/project/SpeechRecognition/) system in one processor, and [Turkish Natural Language Processing](https://pypi.org/project/turkishnlp/) in another processor.
+ - Run a [speech recognition](https://pypi.org/project/SpeechRecognition/) system in one processor, 
+ - and [Turkish Natural Language Processing](https://pypi.org/project/turkishnlp/) in another processor.
