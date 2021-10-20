@@ -17,5 +17,5 @@ Example
  - [speech recognition](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week3/Ses%20Tanima.ipynb)
 
 
-### Homework
-Run a [speech recognition](https://pypi.org/project/SpeechRecognition/) system in one processor, and [Turkish Natural Language Processing](https://pypi.org/project/turkishnlp/) in another language.
+### Homework - MultiProcessing
+Run a [speech recognition](https://pypi.org/project/SpeechRecognition/) system in one processor, and [Turkish Natural Language Processing](https://pypi.org/project/turkishnlp/) in another processor.
