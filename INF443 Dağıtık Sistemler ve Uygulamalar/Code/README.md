@@ -11,4 +11,9 @@
 
 Answer: [ComputePi.ipynb](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/ComputePi.ipynb) you need [multi_process_example.py](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/multi_process_example.py) python file.
 
+## Week 3: Concurrency vs Parallelism II
+ - [speech recognition](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/MultiProcessing.ipynb)
 
+
+
+Run a speech recognition system in one processor, and Turkish Natural Language in another language.
