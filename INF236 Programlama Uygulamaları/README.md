@@ -22,3 +22,11 @@ Kütüphaneler:
  - https://pypi.org/project/SpeechRecognition/
  - https://pypi.org/project/turkishnlp/
  - https://pypi.org/project/sumapi/
+
+
+## Week 4 - Python Uygulamaları
+
+Read these tutorials
+ - [How to Translate Languages in Python](https://www.thepythoncode.com/article/translate-text-in-python)
+ - [How to Convert Text to Speech in Python](https://www.thepythoncode.com/article/convert-text-to-speech-in-python)
+ - [How to Convert Speech to Text in Python](https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python)
