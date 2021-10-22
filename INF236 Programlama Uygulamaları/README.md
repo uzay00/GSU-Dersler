@@ -16,7 +16,7 @@
 
 
 ## Week 3 - Python Uygulamaları
- - [Konusma Tanıma ve Matin Analitiği](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb)
+ - [Konuşma Tanıma ve Metin Analitiği](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb)
 
 Kütüphaneler: 
  - https://pypi.org/project/SpeechRecognition/
