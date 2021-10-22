@@ -12,7 +12,7 @@
 
 
 ## Week 2 - Python ve Olasılık
- - [Monte Carlo yöntemi ile pi hhesaplama](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ders%202%20-%20Olas%C4%B1l%C4%B1k.ipynb)
+ - [Monte Carlo yöntemi ile pi hesaplama](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ders%202%20-%20Olas%C4%B1l%C4%B1k.ipynb)
 
 
 ## Week 3 - Python Uygulamaları
