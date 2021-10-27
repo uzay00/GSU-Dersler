@@ -20,7 +20,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             data = conn.recv(1024)
             if not data:
                 break
-            conn.sendall(data)
+            reply = 'Server Says: ' + data.decode('utf-8')
+            conn.sendall(str.encode(reply))
 
     # If conn.recv() returns an empty bytes object, b'', 
     # then the client closed the connection and the loop is terminated. 
