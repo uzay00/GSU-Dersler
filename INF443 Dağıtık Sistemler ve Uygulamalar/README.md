@@ -35,7 +35,10 @@ Combination of speech recognition and text mining
 
 - ![](SpeechAnalysis.jpg)
 
-### Homework - MultiProcessing
-
+### Homework2 - Speech Analysis with Client-Server Arc.
+Using socket programming build 
+- a client that can connect to `Google` for speech-to-text
+- a multi-threading server that can connect to `Summarify` for sentiment analysis
+and let them communicate through internet with TCP
 
 ![](mt-speech-analysis.JPG)
