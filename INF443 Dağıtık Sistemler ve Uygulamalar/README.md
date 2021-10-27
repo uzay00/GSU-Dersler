@@ -24,6 +24,3 @@ Example
 ### Homework - MultiProcessing
 
 ![](mt-speech-analysis.JPG]
-MultiProcessing Text and Speech analysis 
- - Run a [speech recognition](https://pypi.org/project/SpeechRecognition/) system in one processor, 
- - and [Turkish Natural Language Processing](https://pypi.org/project/turkishnlp/) in another processor.
