@@ -27,9 +27,15 @@ MultiProcessing Text and Speech analysis
  - and [Turkish Natural Language Processing](https://pypi.org/project/turkishnlp/) in another processor.
 
 # Client-Server architecture for speech analysis
- - Simple Speech Analysis [Code](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb)
+ 
 Client-Server architecture 
  - Socket Programming [Lecture](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week5/Socket%20Programming.ipynb)
- - Client [Code](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week5/echo-client.py) and Server [Code](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week5/echo-server.py)
+ - Client [Code](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week5/echo-client.py) and 
+Server [Code](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week5/echo-server.py)
+
+
 Combination of speech recognition and text mining
+ - Simple Speech Analysis [Code](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb)
+
+
 - ![](SpeechAnalysis.jpg)
