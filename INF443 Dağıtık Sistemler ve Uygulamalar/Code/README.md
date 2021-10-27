@@ -28,4 +28,4 @@ MultiProcessing Text and Speech analysis
 
 # Client-Server architecture for speech analysis
 Combination of speech recognition and text mining
-- [](SpeechAnalysis.jpg)
+- ![](SpeechAnalysis.jpg)
