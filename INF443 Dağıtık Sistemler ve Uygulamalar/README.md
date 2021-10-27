@@ -39,6 +39,12 @@ Combination of speech recognition and text mining
 Using socket programming build 
 - a client that can connect to `Google` for speech-to-text
 - a multi-threading server that can connect to `Summarify` for sentiment analysis
+
 and let them communicate through internet with TCP
+
+Use libraries
+ - https://pypi.org/project/SpeechRecognition/
+ - https://pypi.org/project/sumapi/
+
 
 ![](mt-speech-analysis.JPG)
