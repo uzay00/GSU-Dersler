@@ -25,3 +25,7 @@ Example
 MultiProcessing Text and Speech analysis 
  - Run a [speech recognition](https://pypi.org/project/SpeechRecognition/) system in one processor, 
  - and [Turkish Natural Language Processing](https://pypi.org/project/turkishnlp/) in another processor.
+
+# Client-Server architecture for speech analysis
+Combination of speech recognition and text mining
+- [](SpeechAnalysis.jpg)
