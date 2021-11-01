@@ -19,4 +19,6 @@ Kitap İçeriği: [Icerik](https://www.pearson.com/uk/educators/higher-education
 ## Bilgisayım
 Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir. 
 
+ - ![Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
+
 ![](Programlama.JPG)
