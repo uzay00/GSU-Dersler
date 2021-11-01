@@ -16,3 +16,7 @@ Glenn Brookshear, Dennis Brylow, Marquette University ©2019 , Pearson
 Kitap İçeriği: [Icerik](https://www.pearson.com/uk/educators/higher-education-educators/program/Brookshear-Computer-Science-An-Overview-Global-Edition-13th-Edition/PGM2534163.html?tab=contents)
 
 
+## Bilgisayım
+Bilgisayım, (1) verinin depolanması ve (2) verinin işlenmesi ile ilgilidir. 
+
+![](Programlama.JPG)
