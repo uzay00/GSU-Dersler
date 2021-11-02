@@ -21,7 +21,7 @@ Example
  - [speech recognition](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week3/Ses%20Tanima.ipynb)
 
 
-# Client-Server architecture for speech analysis
+## Week 4: Client-Server architecture for speech analysis
  
 Client-Server architecture 
  - Socket Programming [Lecture](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week5/Socket%20Programming.ipynb)
@@ -53,3 +53,15 @@ Use libraries
 
 
 ![](mt-speech-analysis.JPG)
+
+
+## Week 5: Creating a Webapp using streamlit
+
+ - Introduction 2 [streamlit](https://hersanyagci.medium.com/introduction-to-streamlit-for-machine-learning-web-app-cd89c4181c33)
+ - Model Deployment [with Streamlit on AWS](https://hersanyagci.medium.com/model-deployment-with-streamlit-on-aws-ec2-f52ab42d7813)
+ - Streamlit [Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
+
+
+### Homework3 - Speech Analysis with Streamlit on AWS
+ - get [help](https://discuss.streamlit.io/t/speech-to-text-on-client-side-using-html5-and-streamlit-bokeh-events/7888) 
+
