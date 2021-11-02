@@ -54,6 +54,11 @@ Use libraries
 
 ![](mt-speech-analysis.JPG)
 
+Command-line approach to finding your IP
+
+ - OSX/Linux: ifconfig 
+ - Windows: ipconfig /all
+
 
 ## Week 5: Creating a Webapp using streamlit
 
@@ -62,6 +67,10 @@ Use libraries
  - Streamlit [Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
 
 ### Cloud Computing
+- Amazon Simple Storage Service (Amazon S3); nesne depolama 
+- Amazon Elastic Compute Cloud (EC2): Buluttaki sanal sunucu hizmetidir
+
+
 > Cloud Computing often referred to as “the cloud”, in simple terms means storing or accessing your data and programs over the internet rather than your own hard drive.
 
 ### Homework3 - Speech Analysis with Streamlit on AWS
