@@ -21,8 +21,10 @@ application is an example of distributed memory architecture
 
 \\( T(n)  \geq S \times T(1) + P \times T(n) / n\\)
 
+\(E = mc^2\)
+
 ```math
-SE = \frac{\sigma}{\sqrt{n}}
+\(E = mc^2\)
 ```
 
 The execution time of the algorithm described here on n processors is equal—and
