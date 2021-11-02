@@ -42,6 +42,11 @@ Using socket programming build
 
 and let them communicate through internet with TCP
 
+
+> Service-oriented architecture" (SOA) / __microservices__:
+splitting a large software application into multiple services
+(on multiple nodes) that communicate via RPC.
+
 Use libraries
  - https://pypi.org/project/SpeechRecognition/
  - https://pypi.org/project/sumapi/
