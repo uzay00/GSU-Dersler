@@ -15,6 +15,17 @@ application is an example of distributed memory architecture
  - [Concurrency](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/Threads.ipynb)
  - [Parallelism](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/MultiProcessing.ipynb)
 
+### Amdahl's law
+
+$$
+T(n)
+$$
+
+The execution time of the algorithm described here on n processors is equal—and
+generally greater—than the execution time of its serial part on one processor (that is,
+S*T(1)) plus the execution time of its parallel part on one processor (that is, P*T(1))
+divided by n: the number of processors.
+
 
 ## Week 3: Concurrency vs Parallelism II
 ### Compute pi emprically
