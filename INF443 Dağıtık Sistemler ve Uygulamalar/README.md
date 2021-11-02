@@ -19,6 +19,7 @@ application is an example of distributed memory architecture
 
 \\( T(n)  \geq S \times T(1) + P \times T(n) / n\\)
 
+\\[ a^2 = b^2 + c^2 \\]
 
 The execution time of the algorithm described here on n processors is equal—and
 generally greater—than the execution time of its serial part on one processor (that is,
