@@ -1,6 +1,7 @@
 # INF443 Dağıtık Sistemler ve Uygulamalar
 
 ## Week 1: Introduction to Distributed Systems
+> Parallel computing is the simultaneous use of more than one processor to solve a problem.
 
 ## Week 2: Concurrency vs Parallelism
  - [Concurrency](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/Threads.ipynb)
