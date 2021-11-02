@@ -17,9 +17,8 @@ application is an example of distributed memory architecture
 
 ### Amdahl's law
 
-$$
-T(n)
-$$
+\\( T(n)  \geq S \times T(1) + P \times T(n) / n\\)
+
 
 The execution time of the algorithm described here on n processors is equal—and
 generally greater—than the execution time of its serial part on one processor (that is,
