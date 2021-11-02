@@ -61,6 +61,8 @@ Use libraries
  - Model Deployment [with Streamlit on AWS](https://hersanyagci.medium.com/model-deployment-with-streamlit-on-aws-ec2-f52ab42d7813)
  - Streamlit [Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
 
+### Cloud Computing
+> Cloud Computing often referred to as “the cloud”, in simple terms means storing or accessing your data and programs over the internet rather than your own hard drive.
 
 ### Homework3 - Speech Analysis with Streamlit on AWS
  - get [help](https://discuss.streamlit.io/t/speech-to-text-on-client-side-using-html5-and-streamlit-bokeh-events/7888) 
