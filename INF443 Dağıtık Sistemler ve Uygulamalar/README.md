@@ -1,5 +1,3 @@
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
 
 # INF443 Dağıtık Sistemler ve Uygulamalar
@@ -23,7 +21,9 @@ application is an example of distributed memory architecture
 
 \\( T(n)  \geq S \times T(1) + P \times T(n) / n\\)
 
-\\[ a^2 = b^2 + c^2 \\]
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 The execution time of the algorithm described here on n processors is equal—and
 generally greater—than the execution time of its serial part on one processor (that is,
