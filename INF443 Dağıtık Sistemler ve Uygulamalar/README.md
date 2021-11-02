@@ -54,6 +54,12 @@ Use libraries
 
 ![](mt-speech-analysis.JPG)
 
+### Communication between two computers using python socket
+> This program is used for sending "small letters string" from the client and getting "capital letters" from the server
+
+https://stackoverflow.com/questions/11352855/communication-between-two-computers-using-python-socket
+
+
 Command-line approach to finding your IP
 
  - OSX/Linux: ifconfig 
