@@ -9,6 +9,8 @@ Book `Distributed Computing with Python` by `Francesco Pierfederici`
 > Even though they both run on a single computer, a multithreaded application is an example of shared-memory architecture, whereas a multiprocess
 application is an example of distributed memory architecture
 
+> Distributed computing is the simultaneous use of more than one computer to solve a `common` big problem.
+
 ## Week 2: Concurrency vs Parallelism
  - [Concurrency](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/Threads.ipynb)
  - [Parallelism](https://github.com/uzay00/GSU-Dersler/blob/main/INF443%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemler%20ve%20Uygulamalar/Code/Week2/MultiProcessing.ipynb)
