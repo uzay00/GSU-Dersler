@@ -89,7 +89,7 @@ Command-line approach to finding your IP
 
 
 ## Week 5: Creating a Webapp using streamlit
-
+Example: https://bit.ly/veribilimitesti from https://github.com/uzay00/Streamlit
  - Introduction 2 [streamlit](https://hersanyagci.medium.com/introduction-to-streamlit-for-machine-learning-web-app-cd89c4181c33)
  - Model Deployment [with Streamlit on AWS](https://hersanyagci.medium.com/model-deployment-with-streamlit-on-aws-ec2-f52ab42d7813)
  - Streamlit [Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
