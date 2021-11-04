@@ -39,3 +39,20 @@ Read these tutorials
  - [How to Translate Languages in Python](https://www.thepythoncode.com/article/translate-text-in-python)
  - [How to Convert Text to Speech in Python](https://www.thepythoncode.com/article/convert-text-to-speech-in-python)
  - [How to Convert Speech to Text in Python](https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python)
+
+## Week 5 - Python Uygulamaları
+ - [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb) | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=11828)
+ - Introduction 2 [streamlit](https://hersanyagci.medium.com/introduction-to-streamlit-for-machine-learning-web-app-cd89c4181c33)
+ - Streamlit [Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
+
+### YasamKocum Uygulamasi
+> Kullanıcının sorusuna ya da isteğine göre özlü söz ve tavsiyede bulunan program
+
+ - [Soru](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a1-%20%28Basitlestirilmis%29%20Yasam%20Kocu%20Uygulamasi%20SORULAR.ipynb)
+ - [Cevap](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a2%20-%20(Basitlestirilmis)%20Yasam%20Kocu%20Uygulamasi%20CEVAPLAR.ipynb) ve [Versiyon 1](https://github.com/uzay00/KaVe-Egitim/blob/master/VeriBilimi/4a3%20-%20(Basitleştirilmiş)%20YasamKocum%20Uygulaması%20--%20versiyon%201%20--.ipynb)
+ - [Erdem Alpkaya](https://www.linkedin.com/in/erdemalpkaya/)'nın [uygulaması](https://github.com/erdemalpkaya/Aphorism-Recommendation)
+
+### YasamKocum Uygulamasi II
+Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
+  - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
+  - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
