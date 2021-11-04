@@ -7,6 +7,15 @@
 
 # INF236 Programlamaya Giris
 
+Bilgisayım, 
+ - (1) verinin depolanması ve 
+ - (2) verinin işlenmesi ile ilgilidir. 
+
+ - [Python Temelleri](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/0%20-%20Python%20Temeller.ipynb)
+
+![](https://github.com/uzay00/GSU-Dersler/blob/main/INF113%20Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/programlama.png)
+
+
 ##  Week 1 - Python ve Algoritma
  - [İkili Arama](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/GSU_INF236_Ders_1.ipynb)
 
