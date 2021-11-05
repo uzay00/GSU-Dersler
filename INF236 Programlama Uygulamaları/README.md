@@ -41,7 +41,7 @@ Read these tutorials
  - [How to Convert Speech to Text in Python](https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python)
 
 ## Week 5 - Python Uygulamaları
- - [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb) | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=11828)
+ - [Pandas ve Numpy](https://github.com/kaveai/veribilimiyazokulu/blob/main/Ders%20%C4%B0%C3%A7erikleri/Pandas%20ve%20Numpy.ipynb) | [YOUTUBE](https://youtu.be/cr45U2dxyjY?t=11828) basit ve hizli [Pandas](https://nbviewer.org/github/uzay00/KaVe-Egitim/blob/master/VeriBilimi/2a%20-%20Intro%20to%20Data%20Analysis%20with%20Pandas.ipynb)
  - Introduction 2 [streamlit](https://hersanyagci.medium.com/introduction-to-streamlit-for-machine-learning-web-app-cd89c4181c33)
  - Streamlit [Cheatsheet](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
 
