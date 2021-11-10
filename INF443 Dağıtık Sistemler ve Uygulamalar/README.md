@@ -1,6 +1,10 @@
 
 
 # INF443 Dağıtık Sistemler ve Uygulamalar
+```
+M. van Steen and A.S. Tanenbaum, Distributed Systems, 3rd ed., distributed-systems.net, 2017.
+```
+![](https://www.distributed-systems.net/wp-content/uploads/2017/02/DS3-book-cover.png)
 
 ## Week 1: Introduction to Distributed Systems
 
