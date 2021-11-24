@@ -108,3 +108,4 @@ Example: https://bit.ly/veribilimitesti from https://github.com/uzay00/Streamlit
 ### Homework3 - Turkish Speech Emotion Analysis WebApp with Streamlit hosted on AWS
  - get [help](https://discuss.streamlit.io/t/speech-to-text-on-client-side-using-html5-and-streamlit-bokeh-events/7888) 
 
+One solution: https://sesapp746183.herokuapp.com/
