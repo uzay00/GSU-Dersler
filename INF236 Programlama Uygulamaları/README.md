@@ -56,3 +56,8 @@ Read these tutorials
 Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıyın.
   - [Yaşam Koçum W2Vec Video](https://www.youtube.com/watch?v=xz45EaSpf4Y)
   - [Yaşam Koçum W2Vec Notebook](https://github.com/aycignl/python_hour/blob/master/life_coach_application.ipynb)
+
+
+### Genetik Algoritmalar
+![](https://github.com/uzay00/GSU-Dersler/blob/main/INF113%20Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/programlama.png)
+
