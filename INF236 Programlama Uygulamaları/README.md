@@ -59,5 +59,5 @@ Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıy
 
 
 ### Genetik Algoritmalar
-![](https://github.com/uzay00/GSU-Dersler/blob/main/INF113%20Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/programlama.png)
+![](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/GA.JPG
 
