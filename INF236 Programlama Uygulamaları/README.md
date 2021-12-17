@@ -61,14 +61,13 @@ Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıy
 ### Genetik Algoritmalar
   - [En kısa yolu bulma](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
 
+
+![](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/GA.jpg)
+
 ### Bonus Odev: `Environment` Sınıfı ile engelli parkur oluştuşturma
+ - Yukarıdaki kodu kullanarak geliştirme yapalım
  - `Agent` sınıfındaki `go_up` vb fonksiyonlar ancak `Environment` izin veriyorsa çalışır hale gelsin
 
 #### Cizim
  - Dikdörtgen şeklinde engeller koyalım, [link](https://www.geeksforgeeks.org/matplotlib-patches-rectangle-in-python/)
  - Grid'deki çizgileri 1'er adım olacak şekilde ayarlayalım, [link](https://stackoverflow.com/questions/24943991/change-grid-interval-and-specify-tick-labels-in-matplotlib)
-
-
-
-![](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/GA.jpg)
-
