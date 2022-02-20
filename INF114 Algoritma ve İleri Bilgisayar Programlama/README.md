@@ -13,3 +13,11 @@
  12. Hafta	Sıralama Algorimalarının Analizi (Hızlı Sıralama, Yığın Sıralama)								
  13. Hafta	Heap Veri Yapısı ve Sıralama								
  14. Hafta	Hash Veri Yapısı ve Proje Sunumları								
+
+## 1. Hafta
+```
+// ========================
+// gcc hello.c -o hello.out
+// ./hello.out
+// ========================
+```
