@@ -21,3 +21,9 @@
 // ./hello.out
 // ========================
 ```
+C Derleyicisi ve Çalışma Prensibi [Link](https://www.elektrikport.com/makale-detay/c-derleyicisi-ve-calisma-prensibi/16474#ad-image-0)
+
+> _Derleyici_ : Herhangi bir programlama dilinde yazılmış olan kaynak kodunu makine koduna çevirebilen yazılımdır. Bunun amacı ise çalışabilir bir yazılım elde etmektir.
+
+![](https://cdnelektrikport.4flyy.com//Content//201506/ghj.jpg)
+
