@@ -2,6 +2,7 @@
 # Islenen Konular
 
 ## Evaluation
+|   |    | 
 |---------|-----|
 | Midterm   | %30  |
 | Project  |  %30  | 
@@ -9,6 +10,7 @@
 
 
 ## Projects
+|   |    | 
 |---------|-----|
 |    Anomaly Detection |
 | Recommendation (with Matrix Factorization) | 
