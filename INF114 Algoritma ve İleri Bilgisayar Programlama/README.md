@@ -10,7 +10,12 @@
 ## Week 4:
 ## Week 5:
 
+
+### AlgoritmaAnalizi1
 ![](AlgoritmaAnalizi1.png)
+### AlgoritmaAnalizi2
 ![](AlgoritmaAnalizi2.png)
+### AlgoritmaAnalizi3
 ![](AlgoritmaAnalizi3.png)
+### MasterTeorem
 ![](MasterTeorem.png)
