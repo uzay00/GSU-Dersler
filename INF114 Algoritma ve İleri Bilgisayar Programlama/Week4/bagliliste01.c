@@ -1,5 +1,5 @@
-//gcc bagliliste.c -o bagliliste.out
-//./bagliliste.out
+//gcc bagliliste01.c -o bagliliste01.out
+//./bagliliste01.out
 
 #include <stdio.h>
 #include <stdlib.h>
