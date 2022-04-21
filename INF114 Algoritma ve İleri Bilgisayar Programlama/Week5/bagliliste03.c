@@ -41,6 +41,11 @@ Liste cikar(Liste l){
 	if (l->son == NULL){
 		return l;
 	}
+	if (l->son == l->bas){
+		l->bas = NULL;
+		l->son = NULL;
+		return l;
+	}
 	Dugum ix = l->bas;
 	while (ix->ileri != l->son){
 		ix = ix->ileri;
@@ -83,6 +88,19 @@ int main(){
   bag = cikar(bag);
   yazdir(bag);
   printf("\n elemansayisi(bag) = %d\n", elemansayisi(bag));
+  printf("\n//=============================\n");
+  bag = cikar(bag);
+  yazdir(bag);
+  printf("\n elemansayisi(bag) = %d\n", elemansayisi(bag));
+  printf("\n//=============================\n");
+  bag = cikar(bag);
+  yazdir(bag);
+  printf("\n elemansayisi(bag) = %d\n", elemansayisi(bag));
+  printf("\n//=============================\n");
+  bag = cikar(bag);
+  yazdir(bag);
+  printf("\n elemansayisi(bag) = %d\n", elemansayisi(bag));
+
 
   return 0;
 }
