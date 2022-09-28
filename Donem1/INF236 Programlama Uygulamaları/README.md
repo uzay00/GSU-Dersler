@@ -17,15 +17,15 @@ Bilgisayım,
 
 
 ##  Week 1 - Python ve Algoritma
- - [İkili Arama](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/GSU_INF236_Ders_1.ipynb)
+ - [İkili Arama](https://github.com/uzay00/GSU-Dersler/blob/main/Donem1/INF236%20Programlama%20Uygulamalar%C4%B1/icerik/GSU_INF236_Ders_1.ipynb)
 
 
 ## Week 2 - Python ve Olasılık
- - [Monte Carlo yöntemi ile pi hesaplama](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ders%202%20-%20Olas%C4%B1l%C4%B1k.ipynb)
+ - [Monte Carlo yöntemi ile pi hesaplama](https://github.com/uzay00/GSU-Dersler/blob/main/Donem1/INF236%20Programlama%20Uygulamalar%C4%B1/icerik/Ders%202%20-%20Olas%C4%B1l%C4%B1k.ipynb)
 
 
 ## Week 3 - Python Uygulamaları
- - [Konuşma Tanıma ve Metin Analitiği](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Ses%20Tanima.ipynb)
+ - [Konuşma Tanıma ve Metin Analitiği](https://github.com/uzay00/GSU-Dersler/blob/main/Donem1/INF236%20Programlama%20Uygulamalar%C4%B1/icerik/Ses%20Tanima.ipynb)
 
 Kütüphaneler: 
  - https://pypi.org/project/SpeechRecognition/
@@ -59,10 +59,10 @@ Yaşam Koçum Uygulamasını Word2Vec algoritması ile bir üst seviyeye taşıy
 
 
 ### Genetik Algoritmalar
-  - [En kısa yolu bulma](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
+  - [En kısa yolu bulma](https://github.com/uzay00/GSU-Dersler/blob/main/Donem1/INF236%20Programlama%20Uygulamalar%C4%B1/icerik/Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
 
 
-![](https://github.com/uzay00/GSU-Dersler/blob/main/INF236%20Programlama%20Uygulamalar%C4%B1/GA.jpg)
+![](https://github.com/uzay00/GSU-Dersler/blob/main/Donem1/INF236%20Programlama%20Uygulamalar%C4%B1/icerik/GA.jpg)
 
 ### Bonus Odev: `Environment` Sınıfı ile engelli parkur oluştuşturma
  - Yukarıdaki kodu kullanarak geliştirme yapalım
