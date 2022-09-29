@@ -1,3 +1,29 @@
+# INF443 Dağıtık Sistemler ve Uygulamalar
+Ders İçeriği
+- Dağıtık Sistemlerin tanımlanması ve Python'a Giriş
+- Dağıtık Sistem Mimari Modelleri
+- İş Parçacıkları (Thread) ile Programlama I
+- Dağıtık Sistemlerde çok katmanlı yapılar.
+- Prosesler ile Paralel Programlama I
+- Prosesler ile Paralel Programlama II
+- İstemci-Sunucu mimarileri, hesaplamanın dağıtılması, yatay ve dikey dağıtımlar
+- Ara Sınav
+- İstemci-Sunucu mimarileri II
+- Yatay hesaplama dağıtımı için mimariler, yük dağıtımı
+- Orta-katman tasarımı
+- P2P sistemler: İhtiyaçlar, Mimariler, Uygulamalar
+- Bulut Hesaplama Sistemleri: Tanım, Mimariler, Dağıtık sistemlerde rolü ve entegrasyon stratejileri
+- Dağıtık Yapay Zeka Uygulamaları
+
+## Değerlendirme
+- Arasınav %30
+- Ödev x 2 %40
+- Final %30
+
+
+
+
+
 
 
 # INF443 Dağıtık Sistemler ve Uygulamalar
